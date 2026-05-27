@@ -9,7 +9,7 @@ messages = [
     {"role": "system", "content": "あなたは私が雇った馬車馬です。"},
 ]
 
-print("bot: 起動しました。exit で終了します。")
+print("bot:Now loading... 完了！ exit で終了します。")
 
 while True:
     user = input("you> ")
